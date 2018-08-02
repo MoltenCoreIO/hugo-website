@@ -16,3 +16,5 @@ coverImage: /images/uploads/logo-mc-picto.png
 ## Second title
 
 this is a test `test.php`
+
+![test](/images/uploads/ace849f4cca62e9914256c3f9059cdd8.jpg)
